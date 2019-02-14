@@ -1,5 +1,3 @@
-# crj267_agileassignment1
-
 <h1> Assignment 1 </h1>
 <p>[Link to article](https://medium.com/datadriveninvestor/dont-learn-a-programming-language-solve-a-problem-instead-654f6bbfb573)</p>
 
