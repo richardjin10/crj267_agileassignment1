@@ -1,5 +1,6 @@
 <h1> Assignment 1 </h1>
-<p>[Link to article](https://medium.com/datadriveninvestor/dont-learn-a-programming-language-solve-a-problem-instead-654f6bbfb573)</p>
+
+[Link to article](https://medium.com/datadriveninvestor/dont-learn-a-programming-language-solve-a-problem-instead-654f6bbfb573)
 
 The article that I read highlights the fact computer programming is more about solving a problem than
 programming languages itself. The author of the article writes about how he spent years studying programing languages
